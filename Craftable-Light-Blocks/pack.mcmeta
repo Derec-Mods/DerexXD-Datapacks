@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "description": "Craftable Light Blocks",
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 2147483647
+    },
+    "min_format": 48,
+    "max_format": 2147483647
+  }
+}

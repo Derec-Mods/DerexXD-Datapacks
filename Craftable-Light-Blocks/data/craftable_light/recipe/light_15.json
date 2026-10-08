@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "blocks",
+  "group": "light_block",
+  "pattern": [
+    "GGG",
+    "GSG",
+    " C "
+  ],
+  "key": {
+    "G": "minecraft:glass",
+    "C": "minecraft:copper_ingot",
+    "S": "minecraft:torch"
+  },
+  "result": {
+    "id": "minecraft:light",
+    "count": 1,
+    "components": {
+      "minecraft:block_state": {
+        "level": "15"
+      }
+    }
+  }
+}
