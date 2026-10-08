@@ -1,6 +1,5 @@
 {
   "type": "minecraft:stonecutting",
-  "category": "blocks",
   "group": "light_block",
   "ingredient": "minecraft:light",
   "result": {
