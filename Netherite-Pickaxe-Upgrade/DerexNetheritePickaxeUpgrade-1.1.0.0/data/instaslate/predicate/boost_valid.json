@@ -1,0 +1,53 @@
+{
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "equipment": {
+      "mainhand": {
+        "items": "minecraft:netherite_pickaxe",
+        "predicates": {
+          "minecraft:enchantments": [
+            {
+              "enchantments": "minecraft:efficiency",
+              "levels": {
+                "min": 5,
+                "max": 255
+              }
+            }
+          ]
+        },
+        "components": {
+          "minecraft:tool": {
+            "rules": [
+              {
+              "blocks": "#minecraft:incorrect_for_netherite_tool",
+              "correct_for_drops": false
+              },
+              {
+                "blocks": [
+                  "minecraft:deepslate",
+                  "minecraft:end_stone"
+                ],
+                "correct_for_drops": true,
+                "speed": 38.3
+              },
+              {
+              "blocks": "#minecraft:mineable/pickaxe",
+              "correct_for_drops": true,
+              "speed": 9.0
+              }
+            ]
+          }
+        }
+      }
+    },
+    "effects": {
+      "minecraft:haste": {
+        "amplifier": {
+          "min": 1,
+          "max": 255
+        }
+      }
+    }
+  }
+}

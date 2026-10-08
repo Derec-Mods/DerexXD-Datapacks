@@ -1,0 +1,18 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "instaslate:apply_speed_boost"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "instaslate:pickaxe/api/activate_boost"
+  }
+}

@@ -1,0 +1,21 @@
+[
+  {
+    "function": "minecraft:set_components",
+    "components": {
+      "minecraft:tool": {
+        "rules": [
+          {
+          "blocks": "#minecraft:incorrect_for_netherite_tool",
+          "correct_for_drops": false
+          },
+          {
+          "blocks": "#minecraft:mineable/pickaxe",
+          "correct_for_drops": true,
+          "speed": 9.0
+          }
+        ]
+      }
+    }
+  }
+]
+  
