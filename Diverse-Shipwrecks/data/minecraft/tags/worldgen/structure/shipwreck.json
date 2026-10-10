@@ -1,8 +1,8 @@
-{
+﻿{
   "values": [
     "minecraft:shipwreck",
     "minecraft:shipwreck_beached",
-	"revamped_shipwrecks:shipwreck",
-	"revamped_shipwrecks:shipwreck_beached"
+    "diverse_shipwrecks:shipwreck",
+    "diverse_shipwrecks:shipwreck_beached"
   ]
 }
