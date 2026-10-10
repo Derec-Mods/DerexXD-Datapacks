@@ -13,7 +13,7 @@
             "tag": "minecraft:wool"
           },
           "output_state": {
-            "Name": "minecraft:water"
+            "id": "minecraft:water"
           }
         }
       ]

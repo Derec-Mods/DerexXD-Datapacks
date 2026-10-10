@@ -18,7 +18,7 @@
             "tag": "minecraft:trapdoors"
           },
           "output_state": {
-            "Name": "minecraft:sand"
+            "id": "minecraft:sand"
           }
         },
         {
@@ -31,7 +31,7 @@
             "tag": "minecraft:trapdoors"
           },
           "output_state": {
-            "Name": "minecraft:dirt"
+            "id": "minecraft:dirt"
           }
         },
         {
@@ -44,7 +44,7 @@
             "tag": "minecraft:trapdoors"
           },
           "output_state": {
-            "Name": "minecraft:stone"
+            "id": "minecraft:stone"
           }
         },
         {
@@ -57,7 +57,7 @@
             "tag": "minecraft:fences"
           },
           "output_state": {
-            "Name": "minecraft:sand"
+            "id": "minecraft:sand"
           }
         },
         {
@@ -70,7 +70,7 @@
             "tag": "minecraft:fences"
           },
           "output_state": {
-            "Name": "minecraft:dirt"
+            "id": "minecraft:dirt"
           }
         },
         {
@@ -83,7 +83,7 @@
             "tag": "minecraft:fences"
           },
           "output_state": {
-            "Name": "minecraft:stone"
+            "id": "minecraft:stone"
           }
         }
       ]
