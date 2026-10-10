@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:red_wool",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:red_wool_stairs",
+		"minecraft:red_wool_stairs",
+		"minecraft:red_wool_stairs",
+		"minecraft:red_wool_stairs"
+	],
+	"group": "stairs_to_block"
+}

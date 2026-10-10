@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:magenta_wool",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:magenta_wool_stairs",
+		"minecraft:magenta_wool_stairs",
+		"minecraft:magenta_wool_stairs",
+		"minecraft:magenta_wool_stairs"
+	],
+	"group": "stairs_to_block"
+}

@@ -1,0 +1,138 @@
+{
+    "name": "shipwreck", 
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 37,
+            "element": {
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_3",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_4",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_5",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_6",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_7",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_8",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_9",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_10",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_11",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_12",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_13",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/loose_debris_14",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:white_wool",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:white_wool_stairs",
+		"minecraft:white_wool_stairs",
+		"minecraft:white_wool_stairs",
+		"minecraft:white_wool_stairs"
+	],
+	"group": "stairs_to_block"
+}

@@ -1,0 +1,69 @@
+{
+    "name": "shipwreck", 
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_sunk_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_damaged_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_damaged_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_damaged_3",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/dark_oak_jungle/orientation/rightsideup/sections/backend/backend_degraded_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        }
+    ]
+}

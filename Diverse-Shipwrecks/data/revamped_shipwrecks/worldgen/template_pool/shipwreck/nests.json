@@ -1,0 +1,147 @@
+{
+    "name": "nests",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 3,
+            "element": {
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/birch/nest_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/birch/nest_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/birch/nest_destroyed_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/dark_oak/nest_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/dark_oak/nest_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/dark_oak/nest_destroyed_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/jungle/nest_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/jungle/nest_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/jungle/nest_destroyed_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/oak/nest_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/oak/nest_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/oak/nest_destroyed_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/spruce/nest_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/spruce/nest_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/nests/spruce/nest_destroyed_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:nest"
+            }
+        }
+    ]
+}

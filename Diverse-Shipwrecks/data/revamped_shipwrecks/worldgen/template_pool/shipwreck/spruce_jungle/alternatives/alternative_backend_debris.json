@@ -1,0 +1,69 @@
+{
+    "name": "shipwreck", 
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/orientation/rightsideup/sections/backend/backend_debris_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/backend_chunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/backend_chunk_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/backend_chunk_3",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/backend_chunk_4",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/backend_chunk_5",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:exclusively_above"
+            }
+        },
+        {
+            "weight": 2,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/spruce_jungle/alternatives/loose_debris/backend_chunk_6",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        }
+    ]
+}

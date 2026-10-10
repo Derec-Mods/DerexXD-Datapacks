@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:blue_concrete",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:blue_concrete_slab"
+	},
+	"group": "slabs_to_blocks"
+}

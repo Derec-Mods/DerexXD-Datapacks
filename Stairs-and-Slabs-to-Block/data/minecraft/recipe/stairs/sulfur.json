@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:sulfur",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:sulfur_stairs",
+		"minecraft:sulfur_stairs",
+		"minecraft:sulfur_stairs",
+		"minecraft:sulfur_stairs"
+	],
+	"group": "stairs_to_block"
+}

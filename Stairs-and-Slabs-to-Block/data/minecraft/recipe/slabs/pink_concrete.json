@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:pink_concrete",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:pink_concrete_slab"
+	},
+	"group": "slabs_to_blocks"
+}

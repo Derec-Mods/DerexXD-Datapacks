@@ -1,0 +1,42 @@
+{
+    "name": "shipwreck", 
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/oak_spruce/orientation/upward/sections/backend/backend_sunk_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/oak_spruce/orientation/upward/sections/backend/backend_degraded_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/oak_spruce/orientation/upward/sections/backend/backend_destroyed_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/oak_spruce/orientation/upward/sections/backend/backend_destroyed_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:remove_if_buried"
+            }
+        }
+    ]
+}

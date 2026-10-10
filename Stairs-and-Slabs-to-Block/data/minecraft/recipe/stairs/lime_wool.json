@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:lime_wool",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:lime_wool_stairs",
+		"minecraft:lime_wool_stairs",
+		"minecraft:lime_wool_stairs",
+		"minecraft:lime_wool_stairs"
+	],
+	"group": "stairs_to_block"
+}

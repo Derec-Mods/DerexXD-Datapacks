@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:sulfur",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:sulfur_slab"
+	},
+	"group": "slabs_to_blocks"
+}

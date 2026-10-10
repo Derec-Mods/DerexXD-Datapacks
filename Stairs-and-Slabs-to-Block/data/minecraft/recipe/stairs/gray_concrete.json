@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:gray_concrete",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:gray_concrete_stairs",
+		"minecraft:gray_concrete_stairs",
+		"minecraft:gray_concrete_stairs",
+		"minecraft:gray_concrete_stairs"
+	],
+	"group": "stairs_to_block"
+}

@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:magenta_concrete",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:magenta_concrete_slab"
+	},
+	"group": "slabs_to_blocks"
+}

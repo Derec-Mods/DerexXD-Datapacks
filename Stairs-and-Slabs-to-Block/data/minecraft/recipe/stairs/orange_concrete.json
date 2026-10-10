@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:orange_concrete",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:orange_concrete_stairs",
+		"minecraft:orange_concrete_stairs",
+		"minecraft:orange_concrete_stairs",
+		"minecraft:orange_concrete_stairs"
+	],
+	"group": "stairs_to_block"
+}

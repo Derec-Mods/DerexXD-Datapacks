@@ -1,0 +1,66 @@
+{
+    "name": "sails",
+    "fallback": "minecraft:empty",
+    "elements": [
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:empty_pool_element"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/sails/front_sails_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:sails"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/sails/midsection_sails_1",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:sails"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/sails/front_sails_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:sails"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/sails/midsection_sails_2",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:sails"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/sails/front_sails_3",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:sails"
+            }
+        },
+        {
+            "weight": 1,
+            "element": {
+                "element_type": "minecraft:single_pool_element",
+                "location": "revamped_shipwrecks:shipwreck/sails/midsection_sails_3",
+                "projection": "rigid",
+                "processors": "revamped_shipwrecks:sails"
+            }
+        }
+    ]
+}

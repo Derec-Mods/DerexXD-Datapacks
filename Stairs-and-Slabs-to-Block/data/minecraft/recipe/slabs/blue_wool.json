@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:blue_wool",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:blue_wool_slab"
+	},
+	"group": "slabs_to_blocks"
+}

@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:polished_sulfur",
+		"count": 1
+	},
+	"type": "crafting_shaped",
+	"pattern": [
+		"##"
+	],
+	"key": {
+		"#": "minecraft:polished_sulfur_slab"
+	},
+	"group": "slabs_to_blocks"
+}

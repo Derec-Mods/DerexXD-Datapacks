@@ -1,0 +1,14 @@
+{
+	"result": {
+		"id": "minecraft:green_concrete",
+		"count": 3
+	},
+	"type": "crafting_shapeless",
+	"ingredients": [
+		"minecraft:green_concrete_stairs",
+		"minecraft:green_concrete_stairs",
+		"minecraft:green_concrete_stairs",
+		"minecraft:green_concrete_stairs"
+	],
+	"group": "stairs_to_block"
+}
