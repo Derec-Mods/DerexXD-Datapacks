@@ -20,7 +20,4 @@ This datapack is a modernized successor to the original [**Revamped Shipwrecks**
 
 ### Why this successor was created:
 - The original datapack was left unmaintained at Minecraft 1.21.x for over 2 years without updates.
-- Internal datapack and worldgen structure formats evolved significantly in subsequent Minecraft releases, causing the original pack to break completely on modern versions (such as 26.3, 26.4, and newer snapshots/releases).
-- This project serves as an active continuation and overhaul:
-  - Refactored internal namespaces and structure references to `diverse_shipwrecks`.
-  - Updated jigsaw structure NBT data and worldgen template pools for compatibility with modern Minecraft data format specifications.
+- Internal datapack and worldgen structure formats evolved significantly in subsequent Minecraft releases, causing the original pack to break completely on modern versions (starting from 26.3)
